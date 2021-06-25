@@ -1,0 +1,6 @@
+module Pods_ReactNativeTask {
+  umbrella header "Pods-ReactNativeTask-umbrella.h"
+
+  export *
+  module * { export * }
+}
